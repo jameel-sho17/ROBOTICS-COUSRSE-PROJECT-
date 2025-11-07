@@ -1,5 +1,5 @@
 #include <Arduino_LSM9DS1.h>
-#include <MadgwickAHRS.h>
+#include <MadgwickAHRS.h>>
 
 Madgwick filter;
 unsigned long microsPerReading, microsPrevious;
